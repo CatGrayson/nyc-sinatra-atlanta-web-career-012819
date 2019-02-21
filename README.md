@@ -104,8 +104,8 @@ into an interactive Ruby console that is connected to your models and database.
 Here, you can play around with creating and associating instances of the classes
 you create once you properly set up the above. This is a helpful way to solidify
 your understanding of the relationships between your models before you go into
-building the routes, views and forms that will allows your users to interact
-with them. Start out by creating a new figure, landmark and title. Then, add
+building the routes, views and forms that will allow your users to interact
+with them. Start out by creating a new figure, landmark, and title. Then, add
 that landmark and title to the figures collection of landmarks and titles
 respectively. Keep playing around from there however you like.
 
